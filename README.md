@@ -1,1 +1,1 @@
-# GitCoin POAPathon 2021 submissions
+# Gitcoin POAPathon 2021 submissions
