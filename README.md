@@ -16,4 +16,4 @@
 ### [Beefy Finance POAP](https://github.com/9christine/POAPathon/tree/main/beefy)
 
 * [Beefy V2 Launch](/beefy/v2-launch.png)
-* [Beefy DAO Community Call template](/beefy/community-call-template.png) | [svg](/beefy/community-call-template.svg)
+* [Beefy DAO Community Call template](/beefy/cowmoonity-cc-template.png)
